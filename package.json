@@ -5,6 +5,9 @@
     "url": "git@github.com:bothackBerlin/bothack-data-server.git",
     "type": "git"
   },
+  "scripts": {
+		"start": "node bin/server"
+	},
   "author": "Maximilian Goisser <goisser94@gmail.com>",
   "license": "MIT",
   "dependencies": {
